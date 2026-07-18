@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1779425060075,
+    "userId": 1779424923308,
+    "items": [
+      {
+        "id": 19,
+        "name": "Tote Bag",
+        "price": 999.99,
+        "category": "Bags",
+        "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=400",
+        "description": "Spacious canvas tote bag for daily use.",
+        "stock": 35,
+        "qty": 1
+      }
+    ],
+    "total": 999.99,
+    "shippingAddress": "11-283/B,2nd lane Telecom nagar",
+    "status": "confirmed",
+    "createdAt": "2026-05-22T04:44:20.075Z"
+  },
+  {
+    "id": 1779425728929,
+    "userId": 1779424923308,
+    "items": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 299.99,
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+        "description": "Premium sound quality with noise cancellation.",
+        "stock": 15,
+        "qty": 1
+      }
+    ],
+    "total": 299.99,
+    "shippingAddress": "11-283/B,2nd lane Telecom nagar",
+    "status": "confirmed",
+    "createdAt": "2026-05-22T04:55:28.929Z"
+  }
+]
